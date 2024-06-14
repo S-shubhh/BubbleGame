@@ -22,7 +22,7 @@ function runTimer()
         else
         {
         clearInterval(timerInt);
-        document.querySelector("#bottomPanel").innerHTML = `<h1>Game Over!</h1`;
+        document.querySelector("#bottomPanel").innerHTML = `<h1>Game Over! Final Score : ${incr}</h1`;
         } 
     },1000);
         }
