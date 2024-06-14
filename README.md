@@ -28,19 +28,20 @@ This project is a fun and engaging bubble game where the objective is to find an
 
 
 ## Installation
+git clone https://github.com/yourusername/bubble-game.git
 
-##Technologies Used
+## Technologies Used
 
 **JavaScript: For game logic and interactivity
 **CSS: For styling the game
 
 
-##Future Enhancements
+## Future Enhancements
 **Improved UI/UX: Enhancing the visual appeal and user experience
 **Difficulty Levels: Adding different difficulty levels for varied gameplay
 **Leaderboard: Implementing a leaderboard to track high scores
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 
