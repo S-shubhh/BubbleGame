@@ -25,7 +25,7 @@ This project is a fun and engaging bubble game where the objective is to find an
 
 ## Screenshot
 
-![Bubble Game Screenshot](Screenshot 2024-06-14 140608.png)
+![Bubble Game Screenshot](Screenshot)
 
 ## Installation
 git clone https://github.com/yourusername/bubble-game.git
