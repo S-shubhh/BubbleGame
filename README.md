@@ -26,7 +26,7 @@ This project is a fun and engaging bubble game where the objective is to find an
 ## Screenshot
 
 ![Bubble Game Screenshot](Screenshot)
-![Final Score]()
+![Final Score](Screenshot2)
 
 ## Installation
 git clone https://github.com/yourusername/bubble-game.git
